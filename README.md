@@ -27,7 +27,7 @@ This project is a simple Python keylogger developed as part of an internship tas
    ```
 3. Install the required library:
    ```bash
-   pip install pynქ
+   pip install pynput
 
 ## Usage
 1. Run the script:
