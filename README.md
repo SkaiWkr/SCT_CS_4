@@ -19,7 +19,7 @@ This project is a simple Python keylogger developed as part of an internship tas
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/keylogger.git
+   git clone https://github.com/SkaiWkr/SCT_CD_4.git
    ```
 2. Navigate to the project directory:
    ```bash
